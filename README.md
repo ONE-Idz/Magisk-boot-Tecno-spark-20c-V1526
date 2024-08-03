@@ -1,1 +1,1 @@
-# Magisk-boot-Tecno-spark-20c-V1526
+# Magisk-boot-Tecno-spark-20c-BG7-XE674SABCDEFLMNQR-TOP-240611V1526
