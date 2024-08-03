@@ -1,0 +1,1 @@
+# Magisk-boot-Tecno-spark-20c-V1526
